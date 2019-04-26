@@ -16,7 +16,7 @@ export class DataService {
       office: 'GH 206F',
       location: 'GH-215,GH-211,GH-208,GH-115',
       class:{
-        mmw: '9:00-9:50am,12:00-12:50pm,10:00,10:50am,1:00-1:50pm',
+        mmw: '9:00-9:50am,12:00-12:50pm,10:00-10:50am,1:00-1:50pm',
         TR: '9:30-10:45am'
       },
       time: {
@@ -30,11 +30,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7412',
       office: 'GH 111B',
+      location: 'GH-110,GH-208,GH-115,GH-115,GH-208',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '1:00-1:50pm,11:00-11:50am,12:00-12:50pm',
+        TR: '12:30-1:45pm,11:00-12:15pm'
       },
       time: {
         mmw: '',
@@ -47,11 +46,10 @@ export class DataService {
       dept: 'Computer Technology & Information Systems',
       phone: '7253',
       office: 'GH 206G',
+      location: 'GH-212,GH-212,Online,CT-207,CT-208,CT-208,CT-207',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '9:00-9:50am,10:00-10:50am,2:00-3:15pm',
+        TR: '12:30-1:45pm, 2:00-3:15pm'
       },
       time: {
         mmw: '',
@@ -64,11 +62,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7020',
       office: 'GH 111E',
+      location: 'GH-208,GH-110,GH-110,Online,Online',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: 'No Class',
+        TR: '9:30-10:45am, 11:00-12:15pm, 12:30-13:45pm'
       },
       time: {
         mmw: '10:30am - 12:00pm	',
@@ -81,11 +78,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7029',
       office: 'GH 111H',
+      location: 'GH-108,GH-108,Online,GH-108,Online,GH-115',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '10:00-10:50am,12:00-12:50pm,1:00-1:50pm',
+        TR: '11:00-12:15pm'
       },
       time: {
         mmw: '11:00am - 12:00pm',
@@ -98,11 +94,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7233',
       office: 'GH 111A',
+      location: 'GH-110,BH-103,GH-210,GH-210,Online,Online',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '11:00-11:50am,1:00-1:50pm',
+        TR: '8:00-9:15am,9:30-10:45am'
       },
       time: {
         mmw: '12:00pm - 1:00pm',
@@ -115,11 +110,10 @@ export class DataService {
       dept: 'Computer Technology & Information Systems',
       phone: '7545',
       office: 'GH 206J',
+      location: 'GH-214,GH-214,GH-214,GH-115',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '9:00-9:50am,10:00-10:50am,2:00-4:45(W)',
+        TR: '9:30-10:45am'
       },
       time: {
         mmw: '',
@@ -132,11 +126,10 @@ export class DataService {
       dept: 'Computer Technology & Information Systems',
       phone: '7254',
       office: 'GH 206H',
+      location: 'GH-211,CT-207,CT-207,CT-207',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '9:00-9:50am,10:00-10:50am,1:00-1:50pm',
+        TR: '9:30-10:45am'
       },
       time: {
         mmw: '',
@@ -149,11 +142,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7248',
       office: 'GH 111D',
+      location: 'GH-115,GH-115,GH-115,GH-114,GH-114',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '10:00-10:50am,11:00-11:50am,1:00-1:50pm',
+        TR: '9:30-10:45am,12:30-1:45pm'
       },
       time: {
         mmw: '8:00am - 9:30am',
@@ -166,11 +158,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7479',
       office: 'GH 206E',
+      location: 'All Online',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: 'None',
+        TR: 'None'
       },
       time: {
         mmw: '',
@@ -183,11 +174,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7250',
       office: 'GH 111J',
+      location: 'GH-114,GH-108,GH-114,GH-114',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '9:00-9:50am,12:00-12:50pm',
+        TR: '9:30-10:45am,11:00-12:15pm'
       },
       time: {
         mmw: '8:00am - 8:50am',
@@ -200,11 +190,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7022',
       office: 'GH 111G',
+      location: 'Online,Online,GH-210,GH-110,CC-224,Online',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '11:00-11:50am,4:00-6:45pm(W)',
+        TR: '11:00-12:15pm'
       },
       time: {
         mmw: '9:00am - 10:00am',
@@ -217,11 +206,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7251',
       office: 'GH 206B',
+      location: 'GH-210,GH-108,GH-210,CC-224,Online',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '8:00-8:50am,10:00-10:50am,12:00-12:50pm',
+        TR: '4:00-6:45pm(R)'
       },
       time: {
         mmw: '',
@@ -234,11 +222,10 @@ export class DataService {
       dept: 'Computer Technology & Information Systems',
       phone: '7071',
       office: 'GH 206K',
+      location: 'CT-203,CT-203,Online,CT-207,CT-207,CT-203',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '11:00-11:50am,12:00-12:50pm',
+        TR: '11:00-12:15pm,2:00-3:15pm,3:30-4:45pm'
       },
       time: {
         mmw: '',
@@ -251,11 +238,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7036',
       office: 'GH 111K',
+      location: 'Online,GH-108,GH-108,GH-108,Online,CC-225,GH-108',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '9:00-9:50am,11:00-11:50am',
+        TR: '8:00-9:15am,12:30-1:45pm,4:00-6:45pm(T)'
       },
       time: {
         mmw: '',
@@ -268,11 +254,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7245',
       office: 'GH 106',
+      location: 'Online,GH-215,GH-215,GH-211,Online',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '12:00-12:50pm',
+        TR: '11:00-12:15pm'
       },
       time: {
         mmw: '',
@@ -285,11 +270,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7021',
       office: 'GH 111C',
+      location: 'GH-115',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: 'None',
+        TR: '8:00-9:15am'
       },
       time: {
         mmw: '',
@@ -302,11 +286,10 @@ export class DataService {
       dept: 'Business & Economics',
       phone: '7464',
       office: 'GH 206D',
+      location: 'GH-108,Online,GH-208,GH-210,Online,Online',
       class:{
-        mmw: 'MWF Hours here',
-        TR: 'TR Hours here'
-
-
+        mmw: '9:00-9:50am,10:00-10:50am',
+        TR: '9:30-10:45am'
       },
       time: {
         mmw: '11:00am - 11:50am',
